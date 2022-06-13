@@ -30,7 +30,7 @@ const HorizontalCourses = () => {
             </TabsSection>
             <Divider />
             <CardsSection ref={scrollElement}>
-                <CourseCard imageUrl="https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png" title="Python for Beginners - Learn Programming from scratch" author="Coding Tech Solutions" rating="3.3" studentsCount="12,430" price="199" />
+                <CourseCard imageUrl="https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png" title="Java for Beginners - Learn Programming from scratch" author="Coding Tech Solutions" rating="3.3" studentsCount="12,430" price="199" />
                 <CourseCard imageUrl="https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png" title="Python for Beginners - Learn Programming from scratch" author="Coding Tech Solutions" rating="4.3" studentsCount="12,430" price="199" />
                 <CourseCard imageUrl="https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png" title="Python for Beginners - Learn Programming from scratch" author="Coding Tech Solutions" rating="4.3" studentsCount="12,430" price="199" />
                 <CourseCard imageUrl="https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png" title="Python for Beginners - Learn Programming from scratch" author="Coding Tech Solutions" rating="3.3" studentsCount="12,430" price="199" />
