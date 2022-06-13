@@ -15,7 +15,7 @@ const Home = () => {
       {/* ----NavBar Section----- */}
       <Navbar color={primaryColor}>
         <Flex>
-          <Image src='/images/git.png' width="10%" />
+          <Image src={require("../images/git.png")} width="10%" />
           <Flex>
             {menuItems.map(menuItem => <MenuItem>{menuItem}</MenuItem>)}
           </Flex>
